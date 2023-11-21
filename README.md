@@ -38,11 +38,14 @@ Eu não garanto que alguém tenha escrito algo indevido no chat, não estou mode
 ### Calendario Kotlin (KOTLIN/ANDROID)
 **Participantes:** Luís (eu)
 <br />
-[Repositório](https://github.com/luis10barbo/calendarioKotlin) <br />
+[Repositório](https://github.com/luis10barbo/calendarioKotlin) 
+[Vídeo](https://www.youtube.com/watch?v=UUBM0gwPths&list=PLMfvugFDtmT8pSAfC6Pj5CPTu25LThVG1&index=4)<br />
+
 ![](https://github.com/luis10barbo/calendarioKotlin/blob/master/calendario.png?raw=true)
 ### Calculadora SWING Com Parser de Expressões (JAVA/SWING)
 **Participantes:** Luís (eu)
 <br />
 [Repositório](https://github.com/luis10barbo/CalculadoraSwing)
+[Vídeo](https://www.youtube.com/watch?v=LA0gCDiUUAU&list=PLMfvugFDtmT8pSAfC6Pj5CPTu25LThVG1&index=3)
 <br />
 ![](https://github.com/luis10barbo/CalculadoraSwing/raw/master/image.png)
