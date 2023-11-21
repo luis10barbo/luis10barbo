@@ -1,7 +1,7 @@
 # Resumo
 
 **Olá**, meu nome é **Luís Eduardo**, tenho 20 anos, curso Sistema da Informação e sou um auto-proclamado "Rato da programação"!
-<br />![](https://github-readme-stats.vercel.app/api/top-langs/?username=luis10barbo&langs_count=10
+<br />
 ## Minha Jornada
 **Em 2021**, por grande interesse pela área de tecnologia, decidi integrar a programação a
 minha rotina diária. Com uma vontade insaciável de adquirir conhecimento, aprendi
