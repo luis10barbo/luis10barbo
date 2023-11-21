@@ -14,32 +14,34 @@ contratadores
 ## Projetos
 
 ### Gerenciador de Estoque Genérico (JAVA VIA SWING/SQLITE)
-Participantes: Fellipe Kauã, Vinicius de Lima, Paulo, Pedro, Luís (eu)
-Partes que fiz: Banco de Dados, Interface em Swing, Gerenciamento da equipe e do Repositorio no Github 
+**Participantes:** Fellipe Kauã, Vinicius de Lima, Paulo, Pedro, Luís (eu) <br/>
+**Partes que fiz:** Banco de Dados, Interface em Swing, Gerenciamento da equipe e do Repositorio no Github 
 <br />
-[Vídeo](https://youtu.be/PwFYn3tPhBI)
+[Vídeo](https://youtu.be/F7rGsJMWxEI)
 [Repositório](https://github.com/luis10barbo/GStock)
 ![](https://github.com/luis10barbo/GStock/blob/dev/extra/estoque.png?raw=true)
 ### Chat em Tempo Real (RUST/SVELTE)
-Eu não garanto que alguém tenha escrito algo indevido no chat, não estou moderando ele!
-Participantes: Luís (eu)
+Eu não garanto que alguém tenha escrito algo indevido no chat, não estou moderando ele! <br/>
+**Participantes:** Luís (eu)
 <br />
 [Site Aplicativo](https://chat.luisbb.com/)
 [Vídeo](https://www.youtube.com/watch?v=DmDgCSl_vnw&list=PLMfvugFDtmT8pSAfC6Pj5CPTu25LThVG1&index=2)
 [Repositório](https://github.com/luis10barbo/chatapp)
 ![](https://github.com/luis10barbo/chatapp/blob/main/Captura%20de%20tela%202023-11-04%20204857.png)
 ### Gerador de Treinos (JAVA/SQLITE/ANDROID)
-Participantes: Luís (eu)
-Código fonte privado
-<br />
+**Participantes:** Luís (eu) <br/>
 [Vídeo](https://www.youtube.com/watch?v=Xz4XnQBSRh8&list=PLMfvugFDtmT8pSAfC6Pj5CPTu25LThVG1&index=1)
+
+**Código fonte privado**<br />
+![geradortreino](https://github.com/luis10barbo/luis10barbo/assets/89195562/46d8d429-a1d5-49fa-9faf-7789852d47ec)
+
 ### Calendario Kotlin (KOTLIN/ANDROID)
-Participantes: Luís (eu)
+**Participantes:** Luís (eu)
 <br />
 [Repositório](https://github.com/luis10barbo/calendarioKotlin) <br />
 ![](https://github.com/luis10barbo/calendarioKotlin/blob/master/calendario.png?raw=true)
-### Calculadora SWING (JAVA/SWING)
-Participantes: Luís (eu)
+### Calculadora SWING Com Parser de Expressões (JAVA/SWING)
+**Participantes:** Luís (eu)
 <br />
 [Repositório](https://github.com/luis10barbo/CalculadoraSwing)
 <br />
