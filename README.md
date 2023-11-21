@@ -13,7 +13,7 @@ aprendi anteriormente, visando tornar o meu perfil cada vez mais desejável para
 contratadores
 ## Projetos
 
-### Gerenciador de Estoque Genérico (JAVA VIA SWING/SQLITE)
+### Gerenciador de Estoque Genérico (JAVA/SWING/SQLITE)
 **Participantes:** Fellipe Kauã, Vinicius de Lima, Paulo, Pedro, Luís (eu) <br/>
 **Partes que fiz:** Banco de Dados, Interface em Swing, Gerenciamento da equipe e do Repositorio no Github 
 <br />
