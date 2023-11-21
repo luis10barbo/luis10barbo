@@ -1,6 +1,6 @@
 # Resumo
 
-**Olá**, meu nome é **Luís Eduardo**, tenho 20 anos, curso Sistema da Informação e sou um auto-proclamado "Rato da programação"!
+**Olá**, meu nome é **Luís Eduardo**, tenho 20 anos, curso Sistema da Informação e sou um entusiasta da programação!
 <br />
 ## Minha Jornada
 **Em 2021**, por grande interesse pela área de tecnologia, decidi integrar a programação a
