@@ -20,7 +20,7 @@ contratadores
 [Vídeo](https://youtu.be/F7rGsJMWxEI)
 [Repositório](https://github.com/luis10barbo/GStock)
 ![](https://github.com/luis10barbo/GStock/blob/dev/extra/estoque.png?raw=true)
-### Chat em Tempo Real (RUST/SVELTE)
+### Chat em Tempo Real (RUST/SVELTE) (NÃO COMPLETO, MAS FUNCIONANDO)
 Eu não garanto que alguém tenha escrito algo indevido no chat, não estou moderando ele! <br/>
 **Participantes:** Luís (eu)
 <br />
