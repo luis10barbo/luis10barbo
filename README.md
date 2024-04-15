@@ -12,4 +12,4 @@ Atualmente, eu curso Sistema de Informação com o intuito de atingir conteudos 
 aprendi anteriormente, visando tornar o meu perfil cada vez mais desejável para possíveis
 contratadores
 ## Projetos
-Minha lista de projetos foi movida para o site: https://luisbb.com/
+Meu portifólio pode ser encontrado em: https://luisbrb.com.br/
