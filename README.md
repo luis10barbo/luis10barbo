@@ -14,4 +14,4 @@ contratadores
 ## Projetos
 Meu portifólio pode ser encontrado em: https://luisbrb.com.br/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luis10barbo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis10barbo)](https://github.com/anuraghazra/github-readme-stats)
